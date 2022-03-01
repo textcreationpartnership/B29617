@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the seventeen provinces and of the province of Haynault in particular, in which is the city of Mons.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29617</idno>
+            <idno type="STC">Wing S2471</idno>
+            <idno type="STC">ESTC R14626</idno>
+            <idno type="EEBO-CITATION">14909574</idno>
+            <idno type="OCLC">ocm 14909574</idno>
+            <idno type="VID">206119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B29617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 294:14 or 1568:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the seventeen provinces and of the province of Haynault in particular, in which is the city of Mons.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : map.  </extent>
+               <publicationStmt>
+                  <publisher>Published by John Seller, and sold by Richard Baldwin ... in ... London, and by the author at the Hermitage in Wappin,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M.DC.XCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Seller by NUC pre-1956 imprints.</note>
+                  <note>Item at reel 1568:10 identified as Wing D1169A (number cancelled).</note>
+                  <note>Reproductions of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Belgium.</term>
+               <term>Hainaut (County) --  Description and travel.</term>
+               <term>Netherlands --  Description and travel.</term>
+               <term>Mons (Belgium) --  History --  Siege, 1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206119:1"/>
+            <pb facs="tcp:206119:2" rendition="simple:additions"/>
+            <head>A Deſcription of the Seventeen Provinces; And of the Province of <hi>HAYNA<g ref="char:V">Ʋ</g>LT</hi> in particular, in which is the City of <hi>MONS.</hi>
+            </head>
+            <p>THE Seventeen Provinces are, <hi>Brabant, Lembourg, Luxembourg, Gu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lders,</hi> (which are Dutchies); <hi>Flanders, Artois, Haynault, Hol<g ref="char:EOLhyphen"/>land, Zealand, Namur,</hi> and <hi>Zutphen,</hi> (which are Earldoms); the <hi>Marqueſate of the Holy Empire, Frieſland, Malines, <g ref="char:V">Ʋ</g>trecht, Overyſſel,</hi> and <hi>Groningen,</hi> (are Signiories.)</p>
+            <p>The circuit of the Countrey is about a thouſand Engliſh Miles, or thirty-four Flemiſh Leagues. Thoſe that formerly be<g ref="char:EOLhyphen"/>longed to the King of <hi>Spain,</hi> which are now the Seven United Provinces, in theſe are contained 208 Walled Towns, 6300 Villages with Pariſh-Churches, beſides a great number of other Villages and Hamlets.</p>
+            <p>The Beeves of <hi>Frieſland</hi> and <hi>Holland</hi> are very great, and weigh ſome of them ſix<g ref="char:EOLhyphen"/>teen hundred pound weight of that Coun<g ref="char:EOLhyphen"/>trey. The Ewes in <hi>Holland, Frieſland,</hi> and part of <hi>Flanders,</hi> bring forth three or four Lambs at a time, and the Kine ſometimes two Calves. The Countrey brings forth much Mather, wherewith a part of <hi>Europe</hi> is furniſhed; Wood, and Hemp and Flax in great abundance.</p>
+            <p>Five principal Rivers are in theſe Coun<g ref="char:EOLhyphen"/>treys; the <hi>Rhine,</hi> the <hi>Meuſe,</hi> the <hi>Scheld,</hi> the <hi>Haa,</hi> the <hi>Eemes.</hi>
+            </p>
+            <figure>
+               <figDesc>map of the county of Hainaut</figDesc>
+               <p>County of HAINAULT</p>
+            </figure>
+            <p>The <hi>Meuſe</hi> affords abundance of Sturge<g ref="char:EOLhyphen"/>ons, ſo big, that ſome of them weigh 400, and ſome 420 pounds weight, and are twelve foot long of <hi>Antwerp</hi> meaſure. It yieldeth alſo great ſtore of Salmons and Salmon-Trouts, Lampreys, Shads, Congers, Mullets, and divers other ſort of Fiſhes, which coming into freſh Waters, become fat, and excellent good.</p>
+            <p>The <hi>Scheld</hi> hath divers ſorts of Fiſhes that come out of the Sea; as Sturgeon, Salmon-Trouts, Lampreys, Turbots, Con<g ref="char:EOLhyphen"/>gers, Shads, Mullets, Soles, <hi>&amp;c.</hi> and an infinite number of other Fiſh, that multi<g ref="char:EOLhyphen"/>tudes of people are relieved therewith.</p>
+            <p>Beſides theſe Rivers, divers Channels are cut out and made Navigable by Man's hand; the principal whereof are at <hi>Bruxells, Ghent, Bruges,</hi> and <hi>Middlebourg.</hi>
+            </p>
+            <p>The Countreys have many Meers, Pools, Lakes, and Marſhes, which fortifie the Countrey, and furniſh it with Fiſh.</p>
+            <p>Herrings come out of the Northern Seas in incredible multitudes into our Seas in <hi>Auguſt, September, October,</hi> until the midſt of <hi>November;</hi> the ſooner the cold begins, the ſooner they come: They compaſs our Iſland of <hi>Great Britain,</hi> and ſo paſs into the Nor<g ref="char:EOLhyphen"/>thern Ocean.</p>
+            <p>They have in theſe Countreys divers Foreſts and Woods well ſtored with Red and Fallow-Deer, Goats, Wild Boars, Hares, Coneys, Badgers, Wolves, Foxes, <hi>&amp;c.</hi> which yield good Furs.</p>
+            <p>The Fowl in this Countrey are, Partridges, Pheaſants, Turtle-doves, Quails, Black<g ref="char:EOLhyphen"/>birds, and all other ſorts of Fowl.</p>
+            <p>The People are Valiant, and very skilful Seamen: they excel in making Woollen<g ref="char:EOLhyphen"/>cloth, Tapeſtry, Fuſtians, Silks, Velvets.</p>
+            <p>The Women govern all both within doors and without, and make all bargains; which makes them too imperious and troubleſome. The eldeſt Daughter is of the greateſt Reputation, yet hath no larger Portion than the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt. They marry Noble with Ignoble, Young with Old, Maſter and Servant.</p>
+            <p>The Air of theſe Countreys is ſomewhat groſs and moiſt, yet nevertheleſs wholſome, and fit for digeſtion, and very good for breeding all kind of Cattel. The Summer is fair, pleaſant, and delightſome, becauſe the Sun is not over hot: the Winter is com<g ref="char:EOLhyphen"/>monly long, cold, and ſharp. The welfare of the <hi>Netherlands</hi> conſiſts principally in their Navigation and Fiſhery; which, as two inexhauſtible Mines, keep and preſerve them in a continual Trading, Riches, and Proſperity; employing 300 fiſhing Ships and Veſſels, which doth employ near 9000 other Ships and Veſſels, and 150000 people, that are employed on Sea and Land in the management of that Trade; and do build yearly 1000 Ships, tho they have not one Timber-ſtick growing in their own Country.</p>
+            <div type="part">
+               <head>A Deſcription of the Province of <hi>Haynault</hi> in particular; it being the pre<g ref="char:EOLhyphen"/>ſent Seat of Action, in the Inveſting of <hi>Mons</hi> by the <hi>French</hi> King's Forces in the year <hi>1691.</hi>
+               </head>
+               <p>
+                  <hi>HAYNA<g ref="char:V">Ʋ</g>LT</hi> is ſo named of the River <hi>Hayne,</hi> which runs through it. It is bor<g ref="char:EOLhyphen"/>dered on the North with <hi>Brabant</hi> and <hi>Flanders,</hi> on the South with <hi>Champaign</hi> and <hi>Piccardy,</hi> on the Eaſt with the County of <hi>Namur,</hi> and on the Weſt with the <hi>Scheld,</hi> and part of <hi>Flanders Gallican.</hi> It is 20 Leagues long, and 16 broad; The Air is whol<g ref="char:EOLhyphen"/>ſome and the Soil good, by reaſon that the Countrey is watered with many Rivers, as the <hi>Scheld,</hi> the <hi>Sambre,</hi> the <hi>Tender,</hi> and many other ſmall Rivulets; there are alſo in it many Lakes, Marſhes, Ponds, Pools, Fountains, goodly Woods, and pleaſant Foreſts. It aboundeth with fragrant and fair Paſtures and Meadows for all kind of Cattel, with good Fruits and profitable Trees; and is repleniſhed with great plenty of good Corn. In ſome part of it are Iron Mines, Lead, and Quarries of Stone for all kind of Buildings, with great ſtore of White-lime and Cole.</p>
+               <p>In this Countrey are 24 Walled Towns; namely, <hi>Mons, Valenciennes, Bouchain, Queſnoy, Conat, Landreſſy, Ameſnes, Chimay, Mariembourg, Segny, Brain le Compte, Eughien Halle, Leſme, Cheure, Ath, St. Guiſline,</hi> and <hi>Leaze.</hi> There are alſo 950 Villages, with many Caſtles and Signiories. Many of theſe Villages are great and fair, and have Titles of Honour annexed to them; as, <hi>Pequicourt, Fontayn, Laling, Montigny, Antonig, Barlamon, Barbanſon, Aimeries,</hi> and many others.</p>
+            </div>
+            <div type="part">
+               <head>A Deſcription of the City of <hi>MONS.</hi>
+               </head>
+               <p>THE City of <hi>MONS,</hi> or <hi>Berghen,</hi> receives its Name from its ſcituation, which latter in their Language ſignifies a Mountain or Hill: but the riſe of the Earth is ſo gentle, as it cannot be ſaid to be Mountainous. It is a Noble City for Scituation, Inhabitants and Buildings: It is a very ſtrong place by Nature and Art, and may be environed with Water at pleaſure. The City-wall is very ſtrong, and is fortified with three large and deep Ditches, and with an ancient Caſtle. The place is great and fair, and beautified with ſumptuous Buildings, both publick and private, with rich Fountains, and with rich Citizens and Artiſts. Here is great concourſe of People for Commerce. The King of <hi>Spain</hi>'s Councel uſed to ſit here, which adminiſtrated Juſtice to all the Countrey: All which Prerogatives gave it the Precedency over all other Cities in the Province of <hi>Haynault.</hi> It commands large and ſpacious Fields round about it.</p>
+               <p>This City is ſtronger by its Natural Scituation, than by Manual Induſtry: It is cut through on the lower-ſide with a little Rivulet called <hi>Truita;</hi> which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſoon as it goes out of it, falls into another ſomewhat bigger than <hi>Haen.</hi>
+               </p>
+               <p>To this City the French Forces being haſtned from their Quarters, upon notice of the ROYAL CONGRESS at the <hi>Hague,</hi> and the Powerful Army agreed on amongſt the Confederate Princes, in conjunction with His moſt Se<g ref="char:EOLhyphen"/>rene Majeſty of <hi>Great Britain,</hi> who are jointly agreed to pull down the aſpiring Pride of <hi>France;</hi> the <hi>French</hi> King reſolved to attempt ſomething early, that he might look big with Pride once more before his fall: And on the fifteenth of <hi>March,</hi> 1690/1. New Stile, their Cavalry began to inveſt it in a formal manner, uſing all diligence to ſtreighten the paſſages; and ſoon after the arrival of the In<g ref="char:EOLhyphen"/>fantry, the Enemy formed the Siege with a conſiderable Body of Men, and pro<g ref="char:EOLhyphen"/>ceeded haſtily to break ground, and work on their Lines of Circumvallation and Contravallation, to puſh on the Siege before the Confederate Armies can be embodied. But it is well hoped, that by reaſon of the City's being ſufficient<g ref="char:EOLhyphen"/>ly Gariſoned with Old Soldiers, amounting to Six Thouſand Foot and Seven Hundred Horſe, well diſciplin'd, under experienced Commanders; of which there are ſix <hi>Dutch</hi> Regiments, and two of <hi>Brandenburgers;</hi> the reſt being <hi>Spaniards</hi> and <hi>Walloons,</hi> Commanded by the Valiant Prince of <hi>Burgue,</hi> an experi<g ref="char:EOLhyphen"/>enced Soldier; the City being plentifully furniſhed with all manner of Stores, Proviſions and Ammunition, the French King may loſe his aim, in endeavouring by this haſty attempt to undermine all the Councels of the Congreſs at the <hi>Hague.</hi> But let him call to mind, and look back to the year 1678. where our preſent KING (then Prince of <hi>Aurange</hi>) with the Aſſiſtance of the Duke of <hi>Monmouth,</hi> and other Noble Heroes of the Engliſh Nation, raiſed the Siege of <hi>Mons,</hi> againſt all the Power of the French King in that year, and relieved the City. And who knows but God by his good Providence may do the ſame again, by the Pru<g ref="char:EOLhyphen"/>dent Conduct of our Auſpicious King <hi>WILLIAM?</hi> whom God long preſerve; and let all the good People of <hi>England</hi> ſay, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>Victoriae Anglicanae:</hi> Being an hiſtorical Collection of all the memorable and ſtupendious Victo<g ref="char:EOLhyphen"/>ries obtained by the <hi>Engliſh</hi> againſt the <hi>French,</hi> hoth by Sea and Land, ſince the <hi>Norman</hi> Conqueſt; <hi>Viz.</hi> The Battle, <hi>I.</hi> between King <hi>Henry</hi> II. and <hi>Robert</hi> of <hi>Normandy. II</hi> at <hi>Morleis. III.</hi> at the Reſcue of <hi>Calice. IV.</hi> at <hi>Poicters. V.</hi> at <hi>Creſſy. VI.</hi> at <hi>Agincourt. VII.</hi> at the mouth of the River <hi>Seine. VIII.</hi> at <hi>Vernoil. IX.</hi> at <hi>Cravant. X.</hi> at the Re<g ref="char:EOLhyphen"/>lief of <hi>Orleance,</hi> with the great Actions of the Lord <hi>Salisbury</hi> and <hi>Talbot. XI.</hi> of <hi>Spurrs.</hi> Dedicated to all the Commiſſion'd Officers of the Maritime and Land Forces. <hi>Sold by</hi> Ric. Baldwin.</p>
+         </div>
+         <div type="colophon">
+            <p>Publiſhed by <hi>John Seller,</hi> and Sold by <hi>Richard Baldwin</hi> near the <hi>Oxford-Arms</hi>-Inn in <hi>Warwick-Lane, London;</hi> and by the Author at the <hi>Hermitage</hi> in <hi>Wappin.</hi> M.DC.XCI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
